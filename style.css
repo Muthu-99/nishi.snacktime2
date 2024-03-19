@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+li,ul,h1{
+  display: inline;
+}
+ul{
+  padding-left: 60%;
+}
+nav{
+  background-color: black;
+  color: white;
+  padding: 15px;
+}
+li{
+  color:grey;
+  cursor: pointer;
+}
+li:hover{
+    color:white;
+  }
+  .header{
+    text-align: center;
+    
+  }
+  input{
+    width: 60%;
+    padding: 15px;
+  }
+  .searchbar{
+    padding: 50px;
+    text-align: center;
+  }
+  .box{
+    display: inline-block;
+    width: 220px;
+    border-color: black;
+    border-style: solid;
+    
+  }
+  .order{
+   
+    margin-top: 40px;
+    
+  
+  }  
+h3{
+    background-color: black;
+    color: white;
+  }
+  h3:hover{
+    background-color:gray;
+   color:black;
+   cursor: pointer;
+  }
+  .about{
+    text-align: center;
+    margin-top: 20px;
+  }
+  .contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 40px;
+  }
+  .f{
+    color: black;
+  }
